@@ -1,0 +1,15 @@
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.csprojAssemblyReference.cache
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\MainWindow.g.cs
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\App.g.cs
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2_MarkupCompile.cache
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2_MarkupCompile.lref
+D:\С# form\22.10.17\Zadanie\Zadanie_2\bin\Debug\Zadanie_2.exe.config
+D:\С# form\22.10.17\Zadanie\Zadanie_2\bin\Debug\Zadanie_2.exe
+D:\С# form\22.10.17\Zadanie\Zadanie_2\bin\Debug\Zadanie_2.pdb
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\MainWindow.baml
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.g.resources
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.Properties.Resources.resources
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.csproj.GenerateResource.cache
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.csproj.CoreCompileInputs.cache
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.exe
+D:\С# form\22.10.17\Zadanie\Zadanie_2\obj\Debug\Zadanie_2.pdb
